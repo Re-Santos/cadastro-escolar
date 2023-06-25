@@ -1,10 +1,12 @@
 import React from 'react'
+import { HomeData } from './styleData'
 
 const Data = () => {
   return (
-    <div>
+    <HomeData>
       <h2>Dados Cadastrais</h2>
-    </div>
+      <input placeholder="Digite o nome do aluno"/><button>Enter</button>
+    </HomeData>
   )
 }
 
