@@ -10,9 +10,10 @@ const Data = ({studentName}) => {
   );
 
   if (!student) {
+
     return <div>Aluno não encontrado.</div>;
   }
-
+   // o que será renderizado na tela
   return (
     <HomeData>
       <Card>
