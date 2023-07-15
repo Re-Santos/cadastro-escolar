@@ -6,8 +6,9 @@ import Home from './Components/Home/Home'
 import Footer from './Components/Footer/Footer'
 import GlobalStyle from './globoStyles'
 
+
 function App() {
-  // const [count, setCount] = useState(0)
+
 
   return (
     <>
@@ -15,6 +16,7 @@ function App() {
       <div>
        <Header/>
        <Home/>
+       <hr/>
        <Footer/>
       </div>
      

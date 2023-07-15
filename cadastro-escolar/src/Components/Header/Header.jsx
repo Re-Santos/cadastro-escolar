@@ -6,8 +6,8 @@ const Header = () => {
   <>
     
     <HeaderStyle>
-      <img src="./utils/logo.jpg.jpeg"/>
-      <h1>ESCOLA FICTÍCIA</h1>
+      {/* <img src="./assents/utils/logo.jpg.jpeg"/> */}
+      <h1>ESCOLA X</h1>
     </HeaderStyle>
   </>
   )

@@ -12,7 +12,13 @@ const GlobalStyle = createGlobalStyle`
     font-family: Arial, sans-serif;
     background-color: lightblue;
   }
-
+  img {
+    width: 200px; 
+    height: auto; 
+    border-radius: 50%; 
+    object-fit: cover; 
+}
+  
  
 `;
 
