@@ -9,4 +9,12 @@ export const HomeStyle = styled.div`
     padding-top:1rem;
     padding-left:2rem;
 
+input{
+    width:300px;
+    height: 40px;
+    border-radius:2px;
+    border-style:none;
+    padding-left:8px;
+    font-size:15px;
+}
 `

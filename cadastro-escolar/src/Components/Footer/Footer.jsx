@@ -4,7 +4,8 @@ import{FooterStyle} from './footerStyle'
 const Footer = () => {
   return (
     <FooterStyle>
-      <p>Feito por Renata Santos</p>
+      <p>Todos os direitos reservados © </p>
+      <p>Desenvolvido por: Renata Santos</p>
     </FooterStyle>
   )
 }
